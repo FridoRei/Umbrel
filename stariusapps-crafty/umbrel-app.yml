@@ -1,21 +1,23 @@
 manifestVersion: 1
 id: stariusapps-crafty
-name: crafty
+name: Crafty
 tagline: Minecraft
 icon: https://craftycontrol.com/static/img/crafty-logo-vertical.png
 category: Game
-version: "1.0.0"
+version: "4"
 port: 8443
 description: >-
 Controlador de servidores Minecraft
-developer: Starius
+developer: Arcadia Technology
 website: https://craftycontrol.com
 submitter: Umbrel
 submission: https://github.com/FridoRei/Umbrel/tree/main/craft
 repo: https://github.com/FridoRei/Umbrel/tree/main/craft
 support: https://github.com/FridoRei/Umbrel/tree/main/craft/issues
 gallery: 
-  - https://docs.craftycontrol.com/img/logo_long.svg
+  - https://wiki.craftycontrol.com/uploads/en/crafty%204%20login.png
+  - https://wiki.craftycontrol.com/uploads/en/crafty%204%20dashboard.png
+  - https://i.ytimg.com/vi/56zwZmj_ZYo/maxresdefault.jpg
 releaseNotes: >-
 dependencies: []
 path: ""
