@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: stariusapps-crafty
+name: Crafty Controller
+tagline: Minecraft
+icon: https://craftycontrol.com/static/img/crafty-logo-vertical.png
+category: Game
+version: "1.0.0"
+port: 8443
+description: >-
+Controlador de servidores Minecraft
+
+developer: Starius
+website: https://craftycontrol.com/#home
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
