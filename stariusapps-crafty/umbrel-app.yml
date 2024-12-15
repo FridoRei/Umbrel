@@ -8,14 +8,14 @@ version: "1.0.0"
 port: 8443
 description: >-
 Controlador de servidores Minecraft
-
 developer: Starius
 website: https://craftycontrol.com
 submitter: Umbrel
 submission: https://github.com/FridoRei/Umbrel/tree/main/craft
 repo: https://github.com/FridoRei/Umbrel/tree/main/craft
 support: https://github.com/FridoRei/Umbrel/tree/main/craft/issues
-gallery:
+gallery: 
+  - https://docs.craftycontrol.com/img/logo_long.svg
 releaseNotes: >-
 dependencies: []
 path: ""
